@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "c59-project",
+    "slug": "snack-a8686e1c-22d4-4b5b-92e6-6e8809a0273c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "NewsLetter App by Agnika Sunil"
+  }
+}
